@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    font-size: 35px;
+}
+
+#banner {
+    width: 100%;
+}
+
+#sobre {
+    background-color: silver;
+   padding: 20px;
+}
+
+#missão {
+    color: red;
+}
+
+p{
+    text-align: center;
+    font-size: 25px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+#topico {
+    font-style: italic;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 7%;
+    margin-right: 15%;
+    margin-top:  0%;
+}
+
+#beneficios{
+    width: 50%;
+}
